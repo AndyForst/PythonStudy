@@ -1,3 +1,4 @@
+# 汉诺塔
 def move(n,a,b,c):
     if n==1:
         print(a,'to',c)

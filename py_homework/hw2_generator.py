@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# 杨辉三角
 def triangles():
     a = [1]
     while True:

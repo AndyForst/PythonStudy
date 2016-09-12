@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# 字母标准化
 def standard(s):
     s = s.lower()
     t = s[0].upper()
